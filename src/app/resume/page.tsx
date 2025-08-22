@@ -1,6 +1,6 @@
 import { Page } from "@/components/template/Page";
 import Image from "next/image";
-import exemplo from '@/assets/images/exemplo.png';
+import exemplo from '@/assets/images/matheus_photo.jpeg';
 
 export default function ResumePage() {
     return (

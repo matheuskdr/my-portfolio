@@ -1,6 +1,6 @@
 import Project1Thumb from '@/assets/images/calculadoraIMC.png';
 import Project2Thumb from '@/assets/images/memoryGame.png';
-import Project3Thumb from '@/assets/images/toDo.png';
+import Project4Thumb from '@/assets/images/b7burguer.png';
 
 export const projectss = [
     {
@@ -16,15 +16,15 @@ export const projectss = [
         description: "Jogo da Memória com HTML, CSS e JavaScript. Desafie a memória combinando pares de cartas em um tabuleiro interativo.",
         tech: ["HTML", "CSS", "JavaScript"],
         image: Project2Thumb,
-        link: "/",
+        link: "https://matheuskdr.github.io/jogoDaMemoria/",
         github: 'https://github.com/matheuskdr/jogoDaMemoria'
     },
     {
-        title: "ToDo List",
-        description: "Aplicativo de lista de tarefas com HTML, CSS e JavaScript. Permite adicionar, marcar como concluídas e remover tarefas de forma simples e interativa.",
-        tech: ["HTML", "CSS", "JavaScript"],
-        image: Project3Thumb,
-        link: "/",
-        github: 'https://github.com/matheuskdr/myToDoList'
+        title: "B7 Burguer",
+        description: "Site B7Burger criado com HTML e CSS. Apresenta o cardápio, promoções e informações de contato de forma visualmente atrativa e responsiva.",
+        tech: ["HTML", "CSS"],
+        image: Project4Thumb,
+        link: "https://matheuskdr.github.io/projeto_b7burguer/",
+        github: 'https://github.com/matheuskdr/projeto_b7burguer/'
     },
 ];

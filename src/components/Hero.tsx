@@ -20,7 +20,7 @@ export default function Hero() {
                         <h1 className="font-bold pb-4 text-3xl sm:text-5xl lg:text-6xl ">{text}<Cursor cursorStyle='<' /></h1>
                     </div>
                     <p className="text-gray-400 lg:text-lg">
-                        Cursando Engenharia de Software e em busca do meu primeiro estágio na área de TI. Tenho experiência com React, Next.js e Tailwind, e muita vontade de aprender na prática, colaborar com equipes e evoluir como desenvolvedor fullstack.
+                        Cursando Engenharia de Software, em busca do primeiro estágio em TI. Tenho experiência com React, Next.js, Node.js e bancos de dados, com interesse em aprender na prática e evoluir como desenvolvedor fullstack.
                     </p>
                     <div className="flex gap-2 mt-2">
                         {socialLinks.map((item, index) => (
